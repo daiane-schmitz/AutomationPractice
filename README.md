@@ -5,7 +5,7 @@
 <h2 align="center">Pré requisitos</h2>
 
 <p> Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
-<p><a href="https://git-scm.com">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR">Java</a>;</p>
+<p><a href="https://git-scm.com">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR">Java</a>, <a href="https://www.selenium.dev/downloads/">Selenium Webdriver</a>;</p>
 <p>Um editor de texto, como o <a href="https://www.jetbrains.com/pt-br/idea/download/#section=windows">IntelliJ</a>;</p>
 <p></p>
 <p>E para a geração dos relatórios, o Allure:
@@ -15,8 +15,4 @@
 <p>Após, executar o comando para baixar o Allure:</p>
   <p>scoop install allure</p>
   
- <p></p>
-  
-  
-<p></p>
-<p>Projeto finalizado.</p>
+ <p>No terminal digitar o comando: <b>webdriver-manager start</b> para inicializar o Sellenium Webdriver</p>
