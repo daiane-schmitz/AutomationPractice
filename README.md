@@ -5,7 +5,7 @@
 <h2 align="center">Pré requisitos</h2>
 
 <p> Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:</p>
-<p><a href="https://git-scm.com">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR">Java</a>, <a href="https://www.selenium.dev/downloads/">Selenium Webdriver</a>;</p>
+<p><a href="https://git-scm.com">Git</a>, <a href="https://nodejs.org/en/">Node.js</a>, <a href="https://www.java.com/pt-BR/download/ie_manual.jsp?locale=pt_BR">Java</a>, <a href="https://www.selenium.dev/downloads/">Selenium Webdriver</a> na opção da linguagem Java;</p>
 <p>O navegador <a href="https://www.google.com/intl/pt-BR/chrome/">Google Chrome</a> e o <a href="https://chromedriver.chromium.org/downloads">Chrome driver</a> compatível com a versão do navegador utilizado.
 <p>Um editor de texto, como o <a href="https://www.jetbrains.com/pt-br/idea/download/#section=windows">IntelliJ</a>;</p>
 <p></p>
