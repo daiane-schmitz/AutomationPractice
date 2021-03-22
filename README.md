@@ -1,5 +1,5 @@
 <h1 align="center">Automation Practice</h1>
-<p align="center">Testes realizados em Selenium Web Driver e relatórios utilizando Allure. Teste realizando compra no site Automation practice</p>
+<p align="center">Testes realizados em Selenium Web Driver com a linguagem Java e relatórios utilizando Allure. Teste realizando compra no site Automation practice</p>
 
 
 <h2 align="center">Pré requisitos</h2>
